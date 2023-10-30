@@ -1,0 +1,4 @@
+[
+    {"name":"windows", "value":"windows.json"},
+    {"name":"linux",  "value":"linux.json"}
+]
